@@ -1,2 +1,2 @@
 # CarsApp
-A little console program to manage cars
+A little Java console program to manage cars
